@@ -1,4 +1,5 @@
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
+User-Agent: *
+Allow: 
+Allow: /Robot.txt
+
 Sitemap: https://www.ahmetzeybek.net/sitemap.xml
